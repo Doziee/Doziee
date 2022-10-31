@@ -1,5 +1,5 @@
-<h1 align="center" > Hi there🙋🏿‍♀️, I'm Dozie! </h1>
-<h3 align="center"> <"https://media4.giphy.com/media/OhkMiKX0uMmLC/giphy.gif?cid=ecf05e472gwk2sf1ir11lrmagmqtws0l1zsjw2rc6yjr00ln&rid=giphy.gif&ct=g"> </h3>
+<h1 align="center" > Hi there 🤓, I'm Dozie! </h1>
+<h3 align="center"> <<iframe src="https://giphy.com/embed/OhkMiKX0uMmLC" width="398" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/watch-apple-alle-OhkMiKX0uMmLC">via GIPHY</a></p></h3>
 
 
 <!--
