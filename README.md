@@ -13,7 +13,7 @@
 
 ## 🚀 My Stats
 <div align="center">
-<img height="140cm"src="https://github-readme-stats.vercel.app/api?username=doziee&show_icons=true&theme=midnight-blue&hide=prs">
+<img height="140cm"src="https://github-readme-stats.vercel.app/api?username=doziee&show_icons=true&theme=dark-blue&hide=prs">
 <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doziee&layout=compact&theme=midnight-blue""(https://github.com/doziee/github-readme-stats)">
 </div>
 
