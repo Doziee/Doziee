@@ -30,14 +30,13 @@
 </div>
 </div>
 
-### 🪄 Connect With Me: 
-
-<a href="https://twitter.com/ChiedozieEI" target="_blank"><img src="" target="_blank"></a>
-<a href = "mailto:ikechukwuedozie00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/chiedozie-emmanuel-ikechukwu-b8a3221b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 <div align="center">
 <br>
+
+### 🪄 Connect With Me
+
+<a href = "mailto:ikechukwuedozie00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/chiedozie-emmanuel-ikechukwu-b8a3221b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
   
