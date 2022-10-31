@@ -13,7 +13,9 @@
 
 ## 🚀 My Stats
 <div align="center">
-<img height="140cm"src="https://github-readme-stats.vercel.app/api?username=doziee&show_icons=true&theme=dark-blue&hide=prs">
-<img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doziee&layout=compact&theme=midnight-blue""(https://github.com/doziee/github-readme-stats)">
+<img height="140cm"src="https://github-readme-stats.vercel.app/api?username=doziee&show_icons=true&theme=midnight-purple&hide=prs">
+<img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dozie&layout=compact&theme=midnight-purple""(https://github.com/dozie/github-readme-stats)">
 </div>
+
+<div align="center">
 
