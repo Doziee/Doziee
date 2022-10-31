@@ -1,5 +1,5 @@
 <h1 align="center" > Hi there 🤓, I'm Dozie! </h1>
-<h3 align="center"> <img src = "https://media.giphy.com/media/OhkMiKX0uMmLC/giphy.gif> </h3> 
+<h3 align="center"> <img src = "https://media.giphy.com/media/OhkMiKX0uMmLC/giphy.gif"> </h3> 
 
 
 <!--
