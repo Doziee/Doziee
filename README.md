@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on some awesome projects
 - 🌱 I’m currently learning python and Javascript 
 - 👯 I’m looking to collaborate on design and frontend projects
-- 🤔 I’m looking for help with ("Everything help i can get", Always excited to explore and learn new things")
+- 🤔 I’m looking for help with ("Every help i can get", Always excited to explore and learn new things")
 - ⚡ Fun fact: I sing too
 - 🎧 I love music
 
